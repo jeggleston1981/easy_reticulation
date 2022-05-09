@@ -1,5 +1,5 @@
 name: Build and Publish ESPHome firmware and website
-permissions: read-all|write-all
+
 on:
   push:
     branches:
