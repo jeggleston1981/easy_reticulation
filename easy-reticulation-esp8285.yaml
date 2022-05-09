@@ -47,9 +47,6 @@ dashboard_import:
 logger:
   baud_rate: 0
 
-# Sets up the improv via serial client for Wi-Fi provisioning.
-improv_serial:
-
 # API to connect to Home Assistant, services and Dashboard Adopt
 api:
 #To call these services in home assistant eg: esphome.reticulation_start
