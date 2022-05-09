@@ -1,5 +1,5 @@
 name: Build and Publish ESPHome firmware and website
-
+permissions: read-all|write-all
 on:
   push:
     branches:
@@ -7,7 +7,6 @@ on:
 
 jobs:
   build:
-    permissions: read-all|write-all
     uses: esphome/workflows/.github/workflows/publish.yml@main
     with:
       # CHANGEME: Set the filenames of your config files here:
