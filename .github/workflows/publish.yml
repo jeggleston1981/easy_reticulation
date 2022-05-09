@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    uses: jeggleston1981/workflows/.github/workflows/publish.yml@main
+    uses: workflows/.github/workflows/publish.yml@main
     with:
       # CHANGEME: Set the filenames of your config files here:
       files: easy-reticulation-esp32c3.yaml,easy-reticulation-esp8285.yaml
