@@ -1,5 +1,5 @@
 # About
-![Easy Reticulation Controller V2](/Rectulation WEB2.jpg)
+![Easy Reticulation Controller V2](/easy_reticulation/static/Rectulation WEB2.jpg)
 The Easy-Reticulation Controller is designed to be small, simple to use, low cost, versatile and customizable. I have found most people only use up to 3 zones and a master solenoid at most. So I designed a small simple controller that would work with Home Assisant, could be mounted inside a Allbro ENL160806P case and could also be used to retrofit into an existing old school controller if you already have one, to save on the need to buy a case or 24v transformer to run everything via WIFI.
 
 # Where to get one
@@ -16,7 +16,7 @@ You can use the button below to install the lastest pre-built firmware directly 
 <script type="module" src="https://unpkg.com/esp-web-tools@5.2.0/dist/web/install-button.js?module"></script>
 # Instructions
 
-![Controller Pinout](/RETICV2.jpg)
+![Controller Pinout](/easy_reticulation/static/RETICV2.jpg)
 - DO NOT EVER CONNECT TO MAIN LEVEL VOLTAGE IT IS DESIGNED FOR 24vAC safety isolated by a transfromer.
 - Connect the device to a 24v AC power supply as is usual for reticulation systems
 - Once connected the default duration for each station is 10 minutes
