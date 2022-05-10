@@ -1,0 +1,9 @@
+{
+  "chipFamily": "ESP32C3",
+  "parts": [
+    {
+      "path": "esp32-c3-retic-esp32/esp32-c3-retic-esp32.bin",
+      "offset": 0
+    }
+  ]
+}

@@ -14,10 +14,10 @@
       ]
     },
     {
-      "chipFamily": "ESP32",
+      "chipFamily": "ESP32C3",
       "parts": [
         {
-          "path": "project-template-esp32/project-template-esp32.bin",
+          "path": "esp32-c3-retic-esp32/esp32-c3-retic-esp32.bin",
           "offset": 0
         }
       ]
