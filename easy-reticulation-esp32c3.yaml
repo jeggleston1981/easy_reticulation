@@ -36,6 +36,9 @@ esphome:
           id: status
           state: "Standby"
 
+dashboard_import:
+  package_import_url: github://jeggleston1981/easy-reticulation/easy-reticulation-esp32c3.yaml@main
+  
 #preferences:
 #  flash_write_interval: 1min
 esp32:
