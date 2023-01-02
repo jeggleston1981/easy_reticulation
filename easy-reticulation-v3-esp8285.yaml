@@ -34,7 +34,7 @@ esphome:
   project:
     name: jimmy.easy_reticulation
     version: "3.0"
-  name_add_mac_suffix: true
+  name_add_mac_suffix: false
   on_boot:
     priority: -100
     then:
