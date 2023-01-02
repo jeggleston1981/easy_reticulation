@@ -59,7 +59,7 @@ ota:
 
 # WIFI details
 wifi:
-  # Use_address: 192.168.1.110
+  # use_address: 192.168.1.110
   # Enable fallback hotspot (captive portal) in case wifi connection fails
   ap:
   
