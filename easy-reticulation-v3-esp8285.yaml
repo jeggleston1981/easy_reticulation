@@ -819,6 +819,15 @@ script:
             - delay: 2s
   - id: reset
     then:
+      - script.stop: run_program
+      - globals.set:
+          id: program_status
+          value: 'false'
+      - globals.set:
+          id: station_currently_running
+          value: '0'
+      - script.execute: stop_all_stations
+      - switch.turn_off: main_valve
       - switch.turn_on: external_status_led
       - delay: 10s
       - switch.turn_off: external_status_led
