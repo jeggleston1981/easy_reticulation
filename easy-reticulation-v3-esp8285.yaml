@@ -375,7 +375,6 @@ binary_sensor:
         - script.execute: next_button
     - timing:
       - ON for at least 10s
-      - Off for at least 1s
       then:
         - script.execute: reset
 
