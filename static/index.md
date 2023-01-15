@@ -2,7 +2,7 @@
 # About
 The Easy-Reticulation Controller is designed to be small, simple to use, low cost, versatile and customizable. I have found most people only use up to 3 zones and a master solenoid at most. So I designed a small simple controller that would work with Home Assisant, could be mounted inside a Allbro ENL160806P case and could also be used to retrofit into an existing old school controller if you already have one, to save on the need to buy a case or 24v transformer to run everything via WIFI.
 
-More information and instruction are available at my YouTube(https://www.youtube.com/@SparkyJames)
+More information and instruction are available at my YouTube Channel(https://www.youtube.com/@SparkyJames)
 # Where to get one
 It is available at [MY WEBSTORE](https://www.egglec.com.au/product-page/easy-reticulation-controller-v3)
 
