@@ -25,7 +25,7 @@ You can use the button below to install the lastest pre-built firmware directly 
 - If an LED (red) is connected to the SR0(Shift Register Output 0) marked LED and ground this will signal the station that is running
 - It has an on board minature fuse holder NANO2 Littlefuse 1A Slow Blow
 - AC has no polarity so the transformer leads at 24Vac can go to to either 24vac terminal.
-### NOTE IF WIRING IN PARALLEL WITH EXISTING INCORRECT POLARITY CAN DAMAGE THE DEVICE, PLEASE FOLLOW INSTRUCTS FOR PARALLEL INSTALLATION
+### NOTE IF WIRING IN PARALLEL WITH EXISTING INCORRECT POLARITY CAN DAMAGE THE DEVICE, PLEASE FOLLOW INSTRUCTIONS FOR PARALLEL INSTALLATION
 - MV or PUMP is the Main Solenoid or a 24vac pump start relay, this will turn on whenever 1,2,3, 4, 5 or 6 are on.
 - Common is the common voltage for your system and is usually black(but not always)
 - Station Terminals 1-6 will connect to the other side of each Zone or Solenoid in your system
