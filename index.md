@@ -17,7 +17,7 @@ You can use the button below to install the lastest pre-built firmware directly 
 <script type="module" src="https://unpkg.com/esp-web-tools@5.2.0/dist/web/install-button.js?module"></script>
 # Instructions
 
-![Controller Pinout](RETICv3.jpeg)
+![Controller Pinout](EASY_RETIC_PINOUT.jpg)
 - DO NOT EVER CONNECT TO MAINS LEVEL VOLTAGE IT IS DESIGNED FOR conection via a 24vAC safety isolated by a transfromer.
 - Connect the device to a 24v AC power supply as is usual for reticulation systems
 - Once connected the default duration for each station is 10 minutes
